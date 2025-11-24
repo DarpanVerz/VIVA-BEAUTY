@@ -773,18 +773,20 @@
         "testimonial-1": {
           "type": "testimonial",
           "settings": {
-            "show_author_image": true,
+            "show_author_image": false,
             "author": "Chloe W.",
             "testimonial": "<p>\"I wanted to express my gratitude for creating a lip balm that goes beyond the ordinary. Not only does it keep my lips soft and moisturized, but the subtle hint of natural ingredients is delightful. The fact that it's vegan makes it even more appealing. It's clear that a lot of thought and care went into developing this product, and I'm thrilled to have it in my beauty arsenal.\"</p>",
             "show_rating": true,
             "rating": 4,
-            "featured_product": ""
+            "featured_product": "",
+            "featured_product_image": "shopify://shop_images/t1.jpg"
           }
         },
         "testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "show_author_image": true,
+            "show_author_image": false,
+            "author_image": "shopify://shop_images/t2.jpg",
             "author": "Jessica S.",
             "testimonial": "<p>\"As someone who has struggled to find the right skincare match, stumbling upon your brand was a game-changer. The attention to detail in the formulation is evident, and my skin has never felt more balanced and nourished. John Davidson, I can't thank you enough for developing a product that understands and caters to diverse skincare needs.\"</p>",
             "show_rating": true,
@@ -795,23 +797,25 @@
         "testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "show_author_image": true,
+            "show_author_image": false,
             "author": "Alex B.",
             "testimonial": "<p>\"Sunscreen has always been a tricky product for me. I've tried countless options, but they either felt too heavy or didn't provide adequate protection. Emily Rodriguez, your sunscreen is a revelation! It's lightweight, non-greasy, and I appreciate the commitment to cruelty-free ingredients. It's now an essential part of my daily routine, and I'm grateful to have found a product that genuinely works.\"</p><p></p>",
             "show_rating": true,
             "rating": 4,
-            "featured_product": ""
+            "featured_product": "",
+            "featured_product_image": "shopify://shop_images/t3.jpg"
           }
         },
-        "testimonial-4": {
+        "testimonial_Jy3kLz": {
           "type": "testimonial",
           "settings": {
-            "show_author_image": true,
-            "author": "Taylor L.",
-            "testimonial": "<p>\"I've struggled to find a mist that delivers both hydration and a refreshing feel. Your mist not only meets but exceeds my expectations. The scent is invigorating, and I love how it revitalizes my skin throughout the day. It's become a little luxury in my routine, and I'm so glad to have discovered it. Thank you for creating such a fantastic product\"</p>",
+            "show_author_image": false,
+            "author": "Chloe W.",
+            "testimonial": "<p>\"I wanted to express my gratitude for creating a lip balm that goes beyond the ordinary. Not only does it keep my lips soft and moisturized, but the subtle hint of natural ingredients is delightful. The fact that it's vegan makes it even more appealing. It's clear that a lot of thought and care went into developing this product, and I'm thrilled to have it in my beauty arsenal.\"</p>",
             "show_rating": true,
             "rating": 4,
-            "featured_product": ""
+            "featured_product": "",
+            "featured_product_image": "shopify://shop_images/t1.jpg"
           }
         }
       },
@@ -819,7 +823,7 @@
         "testimonial-1",
         "testimonial-2",
         "testimonial-3",
-        "testimonial-4"
+        "testimonial_Jy3kLz"
       ],
       "settings": {
         "center_content": true,

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:groups.footer_group.name",
@@ -23,6 +32,7 @@
         "sections--16369760370866__5cf3d389-459c-408e-b458-fc61fd72115f-newsletter_signup-1": {
           "type": "newsletter_signup",
           "settings": {
+            "enable_collect_customer_name": false,
             "signup_link_text": "Sign up",
             "button_style": "secondary",
             "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.</p>"
@@ -62,7 +72,7 @@
             "title": "",
             "heading_tag_text": "h3",
             "show_title_on_desktop": true,
-            "text": "<p>All product images and content for the theme demo was kindly provided by <a href=\"https://us.nakedsundays.com/\" target=\"_blank\" title=\"https://us.nakedsundays.com/\">Naked Sundays</a>.</p>",
+            "text": "<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make</p>",
             "image_max_width": 120,
             "image_placement": "above_text",
             "show_social_icons": true,
@@ -141,5 +151,8 @@
       }
     }
   },
-  "order": ["5cf3d389-459c-408e-b458-fc61fd72115f", "footer"]
+  "order": [
+    "5cf3d389-459c-408e-b458-fc61fd72115f",
+    "footer"
+  ]
 }

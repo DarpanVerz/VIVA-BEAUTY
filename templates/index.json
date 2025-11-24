@@ -638,7 +638,7 @@
           "settings": {
             "width": "50",
             "height": 500,
-            "mobile_height": 500,
+            "mobile_height": 480,
             "media_type": "image",
             "background_video_focal_point": "center",
             "mobile_background_video_focal_point": "center",

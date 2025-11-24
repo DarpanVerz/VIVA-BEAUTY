@@ -451,7 +451,7 @@
         "heading_zNmLAr": {
           "type": "heading",
           "settings": {
-            "title": "Get Your Glow Balm Sticks",
+            "title": "Protect The Skin You're In",
             "heading_tag": "h3",
             "heading_font_size": 5
           }
@@ -459,16 +459,16 @@
         "text_t9Ar38": {
           "type": "text",
           "settings": {
-            "text": "<p>Multi-purpose skincare, SPF & makeup in one easy to apply stick.</p>",
+            "text": "<p>Award-winning Skincare SPF for Skincare Lovers</p>",
             "text_font_size": 3
           }
         },
         "button_RYDmRH": {
           "type": "button",
           "settings": {
-            "button_link": "",
-            "button_label": "Shop Now",
-            "button_style": "primary"
+            "button_link": "#",
+            "button_label": "Shop All",
+            "button_style": "secondary"
           }
         }
       },
@@ -482,6 +482,7 @@
         "media_position_desktop": "right",
         "media_position_mobile": "above",
         "media_1_type": "image",
+        "image_1": "shopify://shop_images/protect-skin2.jpg",
         "media_1_aspect_ratio": "square",
         "mobile_media_1_aspect_ratio": "square",
         "media_1_focal_point": "center",
@@ -496,7 +497,7 @@
         "content_width": "full",
         "custom_width": 500,
         "content_alignment": "left",
-        "color_scheme": "accent",
+        "color_scheme": "inverse",
         "override_with_custom_colors": false,
         "override_color_text": "#393939",
         "override_color_background": "#ffffff",

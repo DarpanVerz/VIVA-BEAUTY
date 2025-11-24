@@ -26,7 +26,7 @@
           "settings": {
             "title": "Empowering Beauty, One Journey at a Time",
             "heading_tag": "h3",
-            "heading_font_size": 7
+            "heading_font_size": 8
           }
         },
         "button_yt68e7": {
@@ -61,7 +61,7 @@
         "background_image_focal_point": "image_presentation",
         "background_image_mobile_focal_point": "image_presentation",
         "media_link": "",
-        "content_max_width": 500,
+        "content_max_width": 680,
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "image_overlay_tint_opacity": 50,

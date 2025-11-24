@@ -61,7 +61,6 @@
         },
         "meganav_image_with_text_Mm9NR9": {
           "type": "meganav_image_with_text",
-          "disabled": true,
           "settings": {
             "title": "products",
             "header_area_heading": "New Arrivals",
@@ -119,25 +118,26 @@
             "header_link_link": "",
             "header_link_label": "",
             "nav_column_count": 3,
-            "show_column_borders": true,
+            "show_column_borders": false,
             "promo_width": 50,
             "promo_heading_text": "Promoted products",
             "products": [],
             "image_aspect_ratio": "use_theme_settings",
-            "layout": "list",
-            "show_product_vendor": true,
+            "layout": "2_col",
+            "show_product_vendor": false,
             "show_product_subtitles": false,
             "show_product_prices": true
           }
         },
         "meganav_promo_collections_9V9xeY": {
           "type": "meganav_promo_collections",
+          "disabled": true,
           "settings": {
             "title": "products",
             "header_area_heading": "New Arrivals",
             "header_link_link": "",
             "header_link_label": "",
-            "nav_column_count": 2,
+            "nav_column_count": 3,
             "show_column_borders": false,
             "promo_width": 50,
             "promo_heading_text": "",

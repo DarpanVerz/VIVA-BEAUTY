@@ -2,3 +2,11 @@
 {
     --color-button-tertiary-background:#FEF7E5 !important
 }
+#shop-hcaptcha-badge-container {
+    bottom: 100px !important;
+    z-index: 2 !important;
+}
+
+.newsletter-compact__signup.newsletter-compact__block-item input.newsletter-compact__signup-input::placeholder {
+    opacity: 1 !important;
+}

@@ -143,11 +143,11 @@
         "74af819d-9a9e-40f0-b950-067403de718b"
       ],
       "settings": {
-        "desktop_column_gap": 44,
+        "desktop_column_gap": 92,
         "enable_locale_selector": false,
-        "enable_country_selector": true,
+        "enable_country_selector": false,
         "show_payment_icons": true,
-        "additional_copyright_text": "<p><br/></p>",
+        "additional_copyright_text": "",
         "subfooter_menu": ""
       }
     }

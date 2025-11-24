@@ -419,7 +419,7 @@
       ],
       "settings": {
         "enable_full_width": true,
-        "image_height_type": "custom",
+        "image_height_type": "adapt_to_image",
         "custom_height_desktop": "650px",
         "custom_height_mobile": "450px",
         "background_image": "shopify://shop_images/protect-skin.jpg",

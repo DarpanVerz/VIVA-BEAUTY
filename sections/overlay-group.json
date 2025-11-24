@@ -45,7 +45,7 @@
             "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time</p>",
             "tags": "newsletter",
             "enable_collect_customer_name": false,
-            "show_social_icons": true,
+            "show_social_icons": false,
             "popup_size": "small",
             "content_alignment": "center",
             "image_position": "left",

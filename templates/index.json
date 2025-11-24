@@ -193,6 +193,8 @@
         "media_position_desktop": "right",
         "media_position_mobile": "above",
         "media_type": "image",
+        "image": "shopify://shop_images/annual-sale.jpg",
+        "mobile_image": "shopify://shop_images/annual-sale.jpg",
         "media_aspect_ratio": "square",
         "mobile_media_aspect_ratio": "square",
         "media_focal_point": "center",

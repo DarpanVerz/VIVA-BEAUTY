@@ -513,7 +513,7 @@
           "type": "featured_image",
           "settings": {
             "background_image": "shopify://shop_images/shop-by-category.jpg",
-            "background_image_media_fit": "contain",
+            "background_image_media_fit": "cover",
             "background_image_focal_point": "image_presentation",
             "background_image_mobile_focal_point": "image_presentation",
             "media_link": "",

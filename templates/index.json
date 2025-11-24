@@ -58,6 +58,8 @@
         "image_height_type": "adapt_to_image",
         "custom_height_desktop": "650px",
         "custom_height_mobile": "450px",
+        "background_image": "shopify://shop_images/banner-home.webp",
+        "background_image_mobile": "shopify://shop_images/banner-home-mobile_2.webp",
         "background_image_focal_point": "image_presentation",
         "background_image_mobile_focal_point": "image_presentation",
         "media_link": "",
@@ -74,7 +76,7 @@
         "text_box_color_scheme": "default",
         "text_box_override_with_custom_colors": false,
         "text_box_override_color_text": "#393939",
-        "text_box_override_color_background": "#FFFFFF",
+        "text_box_override_color_background": "#ffffff",
         "section_style_spacing_top": 0,
         "section_style_spacing_bottom": 0,
         "section_style_enable_animation": true
@@ -93,7 +95,14 @@
         "button_label": "",
         "button_style": "primary",
         "maximum_content_width": 650,
-        "collections": [],
+        "collections": [
+          "viva",
+          "radiance",
+          "elevate",
+          "empower",
+          "unveil",
+          "flourish"
+        ],
         "num_columns": "6",
         "num_rows": "all",
         "enable_slider_desktop": true,

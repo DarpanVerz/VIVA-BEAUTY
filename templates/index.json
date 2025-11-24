@@ -173,9 +173,9 @@
         "button_xiVNMP": {
           "type": "button",
           "settings": {
-            "button_link": "",
-            "button_label": "Shop sale",
-            "button_style": "solid"
+            "button_link": "#",
+            "button_label": "Shop All",
+            "button_style": "secondary"
           }
         }
       },

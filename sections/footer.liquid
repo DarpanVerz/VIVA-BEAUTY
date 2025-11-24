@@ -322,14 +322,14 @@
               endcapture
             -%}
 
-            <p>
+            {% comment %} <p>
               {{ 'sections.footer.copyright' | t }} &copy; {{ 'now' | date: '%Y' }}, {{ shop.name | link_to: '/' }}
 
               {%- unless powered_by_content_stripped == blank -%}
                 &mdash;
                 {{ powered_by_content }}
               {%- endunless -%}
-            </p>
+            </p> {% endcomment %}
 
             <span class="footer__credits-additional-text">
               {{ section.settings.additional_copyright_text }}

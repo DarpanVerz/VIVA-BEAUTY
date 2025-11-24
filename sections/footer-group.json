@@ -86,7 +86,7 @@
           "type": "links",
           "settings": {
             "collapse_on_mobile": false,
-            "title": "Shop",
+            "title": "Sitemap",
             "heading_tag_links": "h3",
             "show_title_on_desktop": true,
             "link_list": "footer"

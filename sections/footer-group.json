@@ -144,8 +144,8 @@
       ],
       "settings": {
         "desktop_column_gap": 92,
-        "enable_locale_selector": true,
-        "enable_country_selector": true,
+        "enable_locale_selector": false,
+        "enable_country_selector": false,
         "show_payment_icons": true,
         "additional_copyright_text": "",
         "subfooter_menu": ""

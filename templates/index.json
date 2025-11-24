@@ -347,7 +347,7 @@
         "button_2_button_style": "tertiary",
         "button_position": "header",
         "collection": "",
-        "maximum_products": 9,
+        "maximum_products": 4,
         "num_columns": "4",
         "num_columns_mobile": "2",
         "enable_slider_desktop": true,
@@ -363,14 +363,15 @@
         "override_with_custom_colors": false,
         "override_color_text": "#393939",
         "override_color_background": "#ffffff",
+        "background_image": "shopify://shop_images/daily-essentials.jpg",
         "background_image_focal_point": "image_presentation",
         "image_overlay_tint_opacity": 10,
         "image_overlay_tint_style": "gradient_down",
         "image_overlay_override_with_custom_colors": false,
         "image_overlay_override_color_text": "#ffffff",
         "image_overlay_override_color_tint": "#000000",
-        "section_style_spacing_top": 36,
-        "section_style_spacing_bottom": 36,
+        "section_style_spacing_top": 0,
+        "section_style_spacing_bottom": 52,
         "section_style_enable_animation": true
       }
     },
@@ -380,7 +381,7 @@
         "accent": {
           "type": "accent",
           "settings": {
-            "text": "SPF like a pro",
+            "text": "UP TO",
             "accent_font_size": 5,
             "accent_divider_enable": true,
             "accent_divider_color": "accent"
@@ -404,8 +405,8 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_link": "",
-            "button_label": "Shop all",
+            "button_link": "#",
+            "button_label": "Shop All",
             "button_style": "secondary"
           }
         }
@@ -418,7 +419,7 @@
       ],
       "settings": {
         "enable_full_width": true,
-        "image_height_type": "custom",
+        "image_height_type": "adapt_to_image",
         "custom_height_desktop": "650px",
         "custom_height_mobile": "450px",
         "background_image_focal_point": "image_presentation",

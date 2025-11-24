@@ -1,73 +1,80 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "video-hero": {
-      "type": "video-hero",
+    "image_hero_E6pJwU": {
+      "type": "image-hero",
       "blocks": {
-        "accent": {
+        "accent_im8bwQ": {
           "type": "accent",
           "settings": {
-            "text": "High Performing SPF",
-            "accent_font_size": 3,
+            "text": "Short & Strong",
+            "accent_font_size": 5,
             "accent_divider_enable": true,
             "accent_divider_color": "accent"
           }
         },
-        "heading": {
+        "heading_qYDJPg": {
           "type": "heading",
           "settings": {
-            "title": "Get The Glow",
+            "title": "Empowering Beauty, One Journey at a Time",
             "heading_tag": "h3",
-            "heading_font_size": 8
+            "heading_font_size": 6
           }
         },
-        "text": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Use this section to promote a particular feature with editorial video.</p>",
-            "text_font_size": 3
-          }
-        },
-        "button-1": {
+        "button_yt68e7": {
           "type": "button",
           "settings": {
             "button_link": "",
-            "button_label": "Shop now",
+            "button_label": "Read more",
             "button_style": "secondary"
           }
         },
-        "button-2": {
+        "button_HYinYP": {
           "type": "button",
           "settings": {
             "button_link": "",
-            "button_label": "About us",
-            "button_style": "solid"
+            "button_label": "Read more",
+            "button_style": "primary"
           }
         }
       },
-      "block_order": ["accent", "heading", "text", "button-1", "button-2"],
+      "block_order": [
+        "accent_im8bwQ",
+        "heading_qYDJPg",
+        "button_yt68e7",
+        "button_HYinYP"
+      ],
+      "name": "t:sections.image_hero.presets.name",
       "settings": {
         "enable_full_width": true,
         "image_height_type": "custom",
-        "custom_height_desktop": "550px",
-        "custom_height_mobile": "80vh",
-        "video_focal_point": "center",
-        "mobile_video_focal_point": "center",
+        "custom_height_desktop": "650px",
+        "custom_height_mobile": "450px",
+        "background_image_focal_point": "image_presentation",
+        "background_image_mobile_focal_point": "image_presentation",
         "media_link": "",
-        "content_max_width": 400,
+        "content_max_width": 500,
         "text_position": "center_center",
         "text_position_mobile": "center_center",
-        "image_overlay_tint_opacity": 30,
+        "image_overlay_tint_opacity": 50,
         "image_overlay_tint_style": "solid",
         "image_overlay_override_with_custom_colors": false,
         "image_overlay_override_color_text": "#ffffff",
         "image_overlay_override_color_tint": "#000000",
         "enable_text_box": false,
-        "text_box_style": "solid_thin",
+        "text_box_style": "soft_small",
         "text_box_color_scheme": "default",
-        "text_box_override_with_custom_colors": true,
+        "text_box_override_with_custom_colors": false,
         "text_box_override_color_text": "#393939",
-        "text_box_override_color_background": "#ffffff",
+        "text_box_override_color_background": "#FFFFFF",
         "section_style_spacing_top": 0,
         "section_style_spacing_bottom": 0,
         "section_style_enable_animation": true
@@ -118,7 +125,12 @@
             "accent_divider_color": "accent"
           }
         },
-        "spacer_XqWF7D": { "type": "spacer", "settings": { "space": 12 } },
+        "spacer_XqWF7D": {
+          "type": "spacer",
+          "settings": {
+            "space": 12
+          }
+        },
         "heading_8LirHx": {
           "type": "heading",
           "settings": {
@@ -143,7 +155,12 @@
             "text_font_size": 3
           }
         },
-        "spacer_ENdttV": { "type": "spacer", "settings": { "space": 20 } },
+        "spacer_ENdttV": {
+          "type": "spacer",
+          "settings": {
+            "space": 20
+          }
+        },
         "button_xiVNMP": {
           "type": "button",
           "settings": {
@@ -381,7 +398,12 @@
           }
         }
       },
-      "block_order": ["accent", "heading", "text", "button"],
+      "block_order": [
+        "accent",
+        "heading",
+        "text",
+        "button"
+      ],
       "settings": {
         "enable_full_width": true,
         "image_height_type": "custom",
@@ -436,7 +458,11 @@
           }
         }
       },
-      "block_order": ["heading_zNmLAr", "text_t9Ar38", "button_RYDmRH"],
+      "block_order": [
+        "heading_zNmLAr",
+        "text_t9Ar38",
+        "button_RYDmRH"
+      ],
       "settings": {
         "media_width": 45,
         "media_position_desktop": "right",
@@ -495,7 +521,9 @@
           }
         }
       },
-      "block_order": ["featured_video"],
+      "block_order": [
+        "featured_video"
+      ],
       "settings": {
         "center_content": false,
         "preheading": "",
@@ -554,7 +582,9 @@
           }
         }
       },
-      "block_order": ["featured_image"],
+      "block_order": [
+        "featured_image"
+      ],
       "settings": {
         "center_content": false,
         "preheading": "",
@@ -590,6 +620,9 @@
             "width": "50",
             "height": 500,
             "mobile_height": 500,
+            "media_type": "image",
+            "background_video_focal_point": "center",
+            "mobile_background_video_focal_point": "center",
             "background_image_focal_point": "image_presentation",
             "background_image_mobile_focal_point": "image_presentation",
             "text_position": "flex-start_flex-start",
@@ -619,6 +652,9 @@
             "width": "50",
             "height": 500,
             "mobile_height": 500,
+            "media_type": "image",
+            "background_video_focal_point": "center",
+            "mobile_background_video_focal_point": "center",
             "background_image_focal_point": "image_presentation",
             "background_image_mobile_focal_point": "image_presentation",
             "text_position": "flex-start_flex-end",
@@ -643,7 +679,10 @@
           }
         }
       },
-      "block_order": ["item-1", "item-2"],
+      "block_order": [
+        "item-1",
+        "item-2"
+      ],
       "settings": {
         "center_content": true,
         "preheading": "",
@@ -797,7 +836,7 @@
     }
   },
   "order": [
-    "video-hero",
+    "image_hero_E6pJwU",
     "collection-list",
     "media_with_content_split",
     "rich-text",

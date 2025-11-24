@@ -32,16 +32,16 @@
         "button_yt68e7": {
           "type": "button",
           "settings": {
-            "button_link": "",
-            "button_label": "Read more",
+            "button_link": "#",
+            "button_label": "Shop all",
             "button_style": "secondary"
           }
         },
         "button_HYinYP": {
           "type": "button",
           "settings": {
-            "button_link": "",
-            "button_label": "Read more",
+            "button_link": "#",
+            "button_label": "About Us",
             "button_style": "primary"
           }
         }

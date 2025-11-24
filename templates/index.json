@@ -117,8 +117,8 @@
         "image_spacing": 0,
         "title_font_type": "body",
         "text_alignment": "center",
-        "section_style_spacing_top": 36,
-        "section_style_spacing_bottom": 36,
+        "section_style_spacing_top": 52,
+        "section_style_spacing_bottom": 52,
         "section_style_enable_animation": true
       }
     },

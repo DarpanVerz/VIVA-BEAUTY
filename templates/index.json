@@ -274,7 +274,7 @@
         "alignment": "center_center",
         "content_width": "full",
         "custom_content_width": 700,
-        "color_scheme": "accent",
+        "color_scheme": "inverse",
         "override_with_custom_colors": true,
         "override_color_text": "#ffffff",
         "override_color_background": "#000000",

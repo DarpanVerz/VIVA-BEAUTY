@@ -28,37 +28,21 @@
             "modal_text": "<p>Add your information popup content here</p>",
             "page_for_modal_content": ""
           }
-        },
-        "f91add97-e178-4ed5-8344-501f71d2d66e": {
-          "type": "announcement",
-          "settings": {
-            "title": "<p>Shop our annual sale for up to 30% off!</p>",
-            "title_mobile": "",
-            "link": "",
-            "enable_modal": false,
-            "modal_link_text": "Click for details",
-            "modal_link_style": "text",
-            "modal_heading": "",
-            "heading_tag": "h3",
-            "modal_text": "<p>Add your information popup content here</p>",
-            "page_for_modal_content": ""
-          }
         }
       },
       "block_order": [
-        "5ead3ce2-32e3-4045-b7d6-59031d387b93",
-        "f91add97-e178-4ed5-8344-501f71d2d66e"
+        "5ead3ce2-32e3-4045-b7d6-59031d387b93"
       ],
       "settings": {
         "autoplay_delay": 8,
         "color_text": "#ffffff",
         "color_background": "#04a3e2",
         "show_divider": false,
-        "enable_locale_selector": true,
+        "enable_locale_selector": false,
         "enable_country_selector": true,
         "show_country_flags": true,
         "show_social_media": true,
-        "menu": ""
+        "menu": "main-menu"
       }
     },
     "header": {

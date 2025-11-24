@@ -845,7 +845,7 @@
         "text_box_override_color_text": "#393939",
         "text_box_override_color_background": "#ffffff",
         "color_rating": "product_rating",
-        "color_scheme": "accent",
+        "color_scheme": "color_scheme_2",
         "override_with_custom_colors": false,
         "override_color_text": "#393939",
         "override_color_background": "#ffffff",

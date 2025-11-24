@@ -124,6 +124,7 @@
     "cross_sells_recommendations_type": "product-list",
     "collection": "",
     "enable_header_search_product_types_choice": false,
+    "search_bar_suggested_links": "shop",
     "predictive_search_max_result_size": 5,
     "predictive_search_product_style": "columns",
     "predictive_search_show_vendor": true,

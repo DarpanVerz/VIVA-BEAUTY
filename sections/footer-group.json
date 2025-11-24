@@ -147,7 +147,7 @@
         "enable_locale_selector": false,
         "enable_country_selector": false,
         "show_payment_icons": true,
-        "additional_copyright_text": "Copyright © %s VIVA Beauty. All rights reserved. Web Excellence by <a href=\"#https://www.verzdesign.com/\" target=\"_blank\">Verz<span class=\"verz-logo\"></span></a>",
+        "additional_copyright_text": "Copyright © %s VIVA Beauty. All rights reserved. Web Excellence by <a href=\"https://www.verzdesign.com/\" target=\"_blank\">Verz<span class=\"verz-logo\"></span></a>",
         "subfooter_menu": ""
       }
     }

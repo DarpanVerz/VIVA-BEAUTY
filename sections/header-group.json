@@ -42,7 +42,7 @@
         "enable_country_selector": true,
         "show_country_flags": true,
         "show_social_media": true,
-        "menu": "main-menu"
+        "menu": "top-menu"
       }
     },
     "header": {

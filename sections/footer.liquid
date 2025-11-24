@@ -332,6 +332,9 @@
             </p> {% endcomment %}
 
             <span class="footer__credits-additional-text">
+
+              {%- assign current_year = 'now' | date: '%Y' -%}
+{{- section.settings.additional_copyright_textt | replace: '%s', current_year -}}
               {{ section.settings.additional_copyright_text }}
             </span>
           </div>

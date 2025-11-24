@@ -17,7 +17,12 @@
         "enable_quick_cart": true,
         "show_product_currency": false,
         "promotion_text": "<p>Not sure where to start? Try these collections:</p>",
-        "collection_list": [],
+        "collection_list": [
+          "unveil",
+          "radiance",
+          "flourish",
+          "empower"
+        ],
         "collection_list_button_style": "primary"
       }
     },

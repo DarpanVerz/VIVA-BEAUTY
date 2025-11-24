@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "t:groups.header_group.name",
@@ -8,9 +17,9 @@
         "5ead3ce2-32e3-4045-b7d6-59031d387b93": {
           "type": "announcement",
           "settings": {
-            "title": "<p>Free shipping on all orders over $50</p>",
+            "title": "<p>Free shipping on all orders over $50 </p>",
             "title_mobile": "",
-            "link": "",
+            "link": "#",
             "enable_modal": true,
             "modal_link_text": "Learn more",
             "modal_link_style": "text",
@@ -42,14 +51,14 @@
       ],
       "settings": {
         "autoplay_delay": 8,
-        "color_text": "#1e1e1e",
-        "color_background": "#f1eafa",
+        "color_text": "#ffffff",
+        "color_background": "#04a3e2",
         "show_divider": false,
         "enable_locale_selector": true,
         "enable_country_selector": true,
         "show_country_flags": true,
         "show_social_media": true,
-        "menu": "secondary-menu"
+        "menu": ""
       }
     },
     "header": {
@@ -250,7 +259,7 @@
       "settings": {
         "logo_width": 160,
         "menu_main": "main-menu",
-        "menu_secondary": "secondary-menu",
+        "menu_secondary": "",
         "featured_link_label": "Sale",
         "featured_link_color": "#db4827",
         "enable_quick_sign_in": true,
@@ -261,5 +270,9 @@
       }
     }
   },
-  "order": ["announcement-bar", "header", "mobile-menu"]
+  "order": [
+    "announcement-bar",
+    "header",
+    "mobile-menu"
+  ]
 }

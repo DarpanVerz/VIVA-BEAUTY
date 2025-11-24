@@ -137,7 +137,7 @@
     "social_youtube_link": "",
     "social_vimeo_link": "",
     "social_linkedin_link": "",
-    "enable_back_to_top": true,
+    "enable_back_to_top": false,
     "header_search_field_button_type": "transparent",
     "color_popups_drawer_link": "#416eb5",
     "low_inventory_warning_threshold": 31,

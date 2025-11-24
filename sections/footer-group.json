@@ -96,20 +96,20 @@
           "type": "links",
           "settings": {
             "collapse_on_mobile": false,
-            "title": "Company",
+            "title": "Helpful LinkS",
             "heading_tag_links": "h3",
             "show_title_on_desktop": true,
-            "link_list": "footer"
+            "link_list": "helpful-links"
           }
         },
         "a5a690fe-3139-4dc5-bf41-a7714e274a84": {
           "type": "links",
           "settings": {
             "collapse_on_mobile": true,
-            "title": "Policies",
+            "title": "Shop",
             "heading_tag_links": "h3",
             "show_title_on_desktop": true,
-            "link_list": "footer"
+            "link_list": "shop"
           }
         },
         "74af819d-9a9e-40f0-b950-067403de718b": {

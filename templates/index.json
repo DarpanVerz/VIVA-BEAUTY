@@ -219,7 +219,7 @@
           "settings": {
             "button_link": "",
             "button_label": "Shop Under $100",
-            "button_style": "primary"
+            "button_style": "tertiary"
           }
         },
         "button-2": {
@@ -275,9 +275,9 @@
         "content_width": "full",
         "custom_content_width": 700,
         "color_scheme": "accent",
-        "override_with_custom_colors": false,
-        "override_color_text": "#393939",
-        "override_color_background": "#ffffff",
+        "override_with_custom_colors": true,
+        "override_color_text": "#ffffff",
+        "override_color_background": "#000000",
         "section_style_spacing_top": 36,
         "section_style_spacing_bottom": 32,
         "section_style_enable_animation": true

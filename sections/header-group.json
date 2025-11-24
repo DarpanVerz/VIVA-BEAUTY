@@ -113,7 +113,7 @@
         "meganav_promo_products_tfYh7x": {
           "type": "meganav_promo_products",
           "settings": {
-            "title": "Products",
+            "title": "products",
             "header_area_heading": "Mega menu",
             "header_link_link": "",
             "header_link_label": "",

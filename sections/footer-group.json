@@ -1,0 +1,145 @@
+{
+  "type": "footer",
+  "name": "t:groups.footer_group.name",
+  "sections": {
+    "5cf3d389-459c-408e-b458-fc61fd72115f": {
+      "type": "newsletter-compact",
+      "blocks": {
+        "sections--16369760370866__5cf3d389-459c-408e-b458-fc61fd72115f-text_content-1": {
+          "type": "text_content",
+          "settings": {
+            "width": "600",
+            "text_alignment": "left",
+            "accent": "",
+            "accent_divider_enable": false,
+            "accent_divider_color": "accent",
+            "title": "Subscribe to our newsletter",
+            "heading_font_size": 3,
+            "heading_tag": "h3",
+            "text": "<p>Include a short sentence describing what someone can expect from your newsletter.</p>",
+            "text_font_size": 2
+          }
+        },
+        "sections--16369760370866__5cf3d389-459c-408e-b458-fc61fd72115f-newsletter_signup-1": {
+          "type": "newsletter_signup",
+          "settings": {
+            "signup_link_text": "Sign up",
+            "button_style": "secondary",
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "sections--16369760370866__5cf3d389-459c-408e-b458-fc61fd72115f-text_content-1",
+        "sections--16369760370866__5cf3d389-459c-408e-b458-fc61fd72115f-newsletter_signup-1"
+      ],
+      "settings": {
+        "spacing_mode": "between",
+        "color_forms": "transparent",
+        "color_scheme": "inverse",
+        "override_with_custom_colors": false,
+        "override_color_text": "#ffffff",
+        "override_color_background": "#393939",
+        "background_image_focal_point": "image_presentation",
+        "background_image_mobile_focal_point": "image_presentation",
+        "image_overlay_tint_opacity": 50,
+        "image_overlay_tint_style": "gradient_down",
+        "image_overlay_override_with_custom_colors": false,
+        "image_overlay_override_color_text": "#ffffff",
+        "image_overlay_override_color_tint": "#000000",
+        "section_style_spacing_top": 36,
+        "section_style_spacing_bottom": 36,
+        "section_style_enable_animation": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "54a7d842-106a-4923-8a33-6ac93eff33a3": {
+          "type": "text",
+          "settings": {
+            "collapse_on_mobile": true,
+            "title": "",
+            "heading_tag_text": "h3",
+            "show_title_on_desktop": true,
+            "text": "<p>All product images and content for the theme demo was kindly provided by <a href=\"https://us.nakedsundays.com/\" target=\"_blank\" title=\"https://us.nakedsundays.com/\">Naked Sundays</a>.</p>",
+            "image_max_width": 120,
+            "image_placement": "above_text",
+            "show_social_icons": true,
+            "social_icons_header": "Follow us",
+            "footer_social_heading_tag": "h3",
+            "enable_follow_on_shop": false
+          }
+        },
+        "23d29c47-adbf-4a8f-a352-8990b93e3ab3": {
+          "type": "links",
+          "settings": {
+            "collapse_on_mobile": false,
+            "title": "Shop",
+            "heading_tag_links": "h3",
+            "show_title_on_desktop": true,
+            "link_list": "footer"
+          }
+        },
+        "efd12443-31a0-4bbe-a50e-18dc3e8a068d": {
+          "type": "links",
+          "settings": {
+            "collapse_on_mobile": false,
+            "title": "Company",
+            "heading_tag_links": "h3",
+            "show_title_on_desktop": true,
+            "link_list": "footer"
+          }
+        },
+        "a5a690fe-3139-4dc5-bf41-a7714e274a84": {
+          "type": "links",
+          "settings": {
+            "collapse_on_mobile": true,
+            "title": "Policies",
+            "heading_tag_links": "h3",
+            "show_title_on_desktop": true,
+            "link_list": "footer"
+          }
+        },
+        "74af819d-9a9e-40f0-b950-067403de718b": {
+          "type": "contact",
+          "settings": {
+            "title": "Contact us",
+            "heading_tag_contact": "h3",
+            "show_title_on_desktop": true,
+            "text": "<p>Questions? We're here for you Monday - Friday 10am-6pm ET.</p>",
+            "contact_icon_1": "phone",
+            "contact_text_1": "+1 (416) 555-5555",
+            "contact_link_1": "",
+            "contact_icon_2": "envelope",
+            "contact_text_2": "support@cornerstone.com",
+            "contact_link_2": "",
+            "contact_icon_3": "pin-location",
+            "contact_text_3": "123 Queen Street",
+            "contact_link_3": "",
+            "show_social_icons": false,
+            "social_icons_header": "Follow us",
+            "footer_social_heading_tag": "h3",
+            "enable_follow_on_shop": false
+          }
+        }
+      },
+      "block_order": [
+        "54a7d842-106a-4923-8a33-6ac93eff33a3",
+        "23d29c47-adbf-4a8f-a352-8990b93e3ab3",
+        "efd12443-31a0-4bbe-a50e-18dc3e8a068d",
+        "a5a690fe-3139-4dc5-bf41-a7714e274a84",
+        "74af819d-9a9e-40f0-b950-067403de718b"
+      ],
+      "settings": {
+        "desktop_column_gap": 92,
+        "enable_locale_selector": true,
+        "enable_country_selector": true,
+        "show_payment_icons": true,
+        "additional_copyright_text": "",
+        "subfooter_menu": ""
+      }
+    }
+  },
+  "order": ["5cf3d389-459c-408e-b458-fc61fd72115f", "footer"]
+}

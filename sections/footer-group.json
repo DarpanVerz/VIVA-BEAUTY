@@ -115,7 +115,7 @@
         "74af819d-9a9e-40f0-b950-067403de718b": {
           "type": "contact",
           "settings": {
-            "title": "Contact us",
+            "title": "Contact Us",
             "heading_tag_contact": "h3",
             "show_title_on_desktop": true,
             "text": "<p>Questions? We're here for you Monday - Friday 10am-6pm ET.</p>",

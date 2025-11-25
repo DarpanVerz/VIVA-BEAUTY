@@ -175,7 +175,7 @@
         "drop_shadow": "line",
         "logo": "shopify://shop_images/header-logo.png",
         "logo_width": 150,
-        "mobile_logo_width": 70,
+        "mobile_logo_width": 100,
         "enable_transparent_on_home": false,
         "enable_transparent_template_list": "",
         "enable_transparent_background_tint": true,

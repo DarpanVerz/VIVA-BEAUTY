@@ -1,6 +1,8 @@
 :root
 {
     --color-button-tertiary-background:#FEF7E5 !important
+}.shopify-section.header__outer-wrapper {
+    max-width: 100% !important;
 }
 .quick-search__submit {
     background: var(--color-button-primary-text);

@@ -40,7 +40,7 @@
     "color_products_stock_medium": "#e10808",
     "color_free_shipping_bar_below_full": "#04a3e2",
     "color_free_shipping_bar_full": "#0ea352",
-    "color_popups_drawer_text": "#333333",
+    "color_popups_drawer_text": "#000000",
     "color_popups_drawer_links": "#04a3e2",
     "color_popups_drawer_sale_price": "#e41148",
     "color_popups_drawer_background": "#ffffff",

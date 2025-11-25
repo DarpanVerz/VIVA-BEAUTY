@@ -26,7 +26,9 @@ button.product-item__quick-add.btn.btn--small.btn--full.btn--tertiary {
 .quick-search__input, .quick-search__faux-input {
     padding-right: 87px !important;
 }
-
+body.template-index {
+    overflow-x: hidden !important;
+}
 
 .product-item__price-main s {
     color: var(--color-products-sale-price) !important;

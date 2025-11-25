@@ -181,7 +181,7 @@
         "enable_transparent_background_tint": true,
         "color_text_transparent": "#ffffff",
         "menu": "main-menu",
-        "menu_interaction": "click",
+        "menu_interaction": "hover",
         "featured_link_label": "Sale",
         "featured_link_color": "#e41148",
         "show_account_label": false,

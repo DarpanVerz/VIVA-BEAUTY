@@ -239,7 +239,7 @@
         "menu_main": "shop",
         "menu_secondary": "main-menu",
         "featured_link_label": "Sale",
-        "featured_link_color": "#db4827",
+        "featured_link_color": "#e41148",
         "enable_quick_sign_in": true,
         "show_social_media": true,
         "social_media_icons_columns": 5,

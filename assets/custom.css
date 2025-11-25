@@ -21,6 +21,9 @@
 
 .meganav__content {
     padding-bottom: 40px !important;
+}a.footer__logo-link {
+    max-width: max-content;
+    display: block;
 }
 .newsletter-compact__signup.newsletter-compact__block-item input.newsletter-compact__signup-input::placeholder {
     opacity: 1 !important;

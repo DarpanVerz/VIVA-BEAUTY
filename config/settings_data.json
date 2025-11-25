@@ -69,7 +69,7 @@
     "capitalize_buttons": false,
     "product_listing_title_font": "heading",
     "capitalize_product_listing_title": false,
-    "product_listing_title_base_size": 20,
+    "product_listing_title_base_size": 18,
     "product_badges_font": "body",
     "bold_product_badges": false,
     "uppercase_product_badges": false,

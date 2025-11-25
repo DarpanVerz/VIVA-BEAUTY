@@ -6,6 +6,10 @@
     background: var(--color-button-primary-text);
     color: var(--color-button-primary-background) !important;
 }
+.product-item__price s:not(:empty)+[data-price], .product-item__price .displayed-discount , .product-item__price-wrap .sale {
+    opacity: 0.66;
+}
+
 #shop-hcaptcha-badge-container {
     bottom: 100px !important;
     z-index: 2 !important;

@@ -14,9 +14,9 @@
 button.product-item__quick-add.btn.btn--small.btn--full.btn--tertiary { background: #FFFCF6; border-color: #12121266 !important; box-shadow: 0 0 0 1px inset #12121266 !important; }
 button.product-item__quick-add.btn.btn--small.btn--full.btn--tertiary::hover
 {
-    0 0 0 1px inset var(--color-border-button-tertiary-hover) !important
+    box-shadow:0 0 0 1px inset var(--color-border-button-tertiary-hover) !important
 }
-0 0 0 1px inset var(--color-border-button-tertiary-hover) !important
+
 .badge-shape { padding-bottom: 4px !important; }
 .quick-search__input, .quick-search__faux-input { padding-right: 87px !important; }
 body.template-index { overflow-x: hidden !important; }

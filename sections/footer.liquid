@@ -55,9 +55,11 @@
               assign rendered_image = blank
 
               if block.settings.image != blank or block.type == 'logo'
+               echo '<a href="/" class="footer__logo-link">'
                 capture rendered_image
                   render 'image', image: block.settings.image, wrapper_class: 'footer__image', sizes_px: block.settings.image_max_width, include_placeholder: true
                 endcapture
+                 echo '</a>'
               endif
             -%}
 

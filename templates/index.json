@@ -52,7 +52,6 @@
         "button_yt68e7",
         "button_HYinYP"
       ],
-      "disabled": true,
       "name": "t:sections.image_hero.presets.name",
       "settings": {
         "enable_full_width": true,
@@ -85,6 +84,7 @@
     },
     "collection-list": {
       "type": "collection-list",
+      "disabled": true,
       "settings": {
         "center_content": false,
         "preheading": "",
@@ -189,7 +189,6 @@
         "spacer_ENdttV",
         "button_xiVNMP"
       ],
-      "disabled": true,
       "settings": {
         "media_width": 50,
         "media_position_desktop": "right",

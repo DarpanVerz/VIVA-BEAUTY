@@ -50,6 +50,7 @@
       "blocks": {
         "meganav_simple_dYnYht": {
           "type": "meganav_simple",
+          "disabled": true,
           "settings": {
             "title": "",
             "header_area_heading": "Mega menu",

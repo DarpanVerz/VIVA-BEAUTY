@@ -1,8 +1,7 @@
 :root
 {
     --color-button-tertiary-background:#FEF7E5 !important
-}.shopify-section.header__outer-wrapper {
-    max-width: 100% !important;
+}.header__inner-wrapper, .header__nav-bar-inner {    overflow: hidden !important
 }
 .quick-search__submit {
     background: var(--color-button-primary-text);

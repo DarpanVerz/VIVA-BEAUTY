@@ -382,7 +382,7 @@
           "type": "accent",
           "settings": {
             "text": "UP TO",
-            "accent_font_size": 5,
+            "accent_font_size": 4,
             "accent_divider_enable": true,
             "accent_divider_color": "accent"
           }

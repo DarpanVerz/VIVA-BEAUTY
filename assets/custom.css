@@ -21,6 +21,13 @@ body.template-index { overflow-x: hidden !important; }
 .product-item__price-main { opacity: 0.65 !important; }
 .collection-item__link:hover { color: var(--color-text-link); }
 .back-to-top { z-index: 2 !important; }
+.announcement-bar__details-link:hover {
+    opacity: 0.8 !important;
+}
+
+.meganav-promo-image-with-text-item .btn.btn--text-link:hover {
+    opacity: 0.8 !important;
+}
 @media (min-width:960px) {
     .header__inner { padding-top: 4px !important; padding-bottom: 4px !important; }
 }

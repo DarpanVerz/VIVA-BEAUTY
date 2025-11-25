@@ -311,7 +311,7 @@
             endif
           -%}
 
-          <div class="footer__credits fs-body-75">
+          <div class="footer__credits ">
             {%- liquid
               capture powered_by_content
                 echo powered_by_link | replace: 'rel="nofollow"', 'rel="nofollow noopener"'
@@ -334,7 +334,7 @@
             <span class="footer__credits-additional-text">
 
               {%- assign current_year = 'now' | date: '%Y' -%}
-<p class="copy_right">{{ section.settings.additional_copyright_text | replace: '%s', current_year }}</p>
+<p class="copy_right ">{{ section.settings.additional_copyright_text | replace: '%s', current_year }}</p>
              
             </span>
           </div>

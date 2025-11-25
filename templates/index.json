@@ -347,7 +347,7 @@
         "button_2_button_style": "tertiary",
         "button_position": "header",
         "collection": "flourish",
-        "maximum_products": 4,
+        "maximum_products": 3,
         "num_columns": "4",
         "num_columns_mobile": "2",
         "enable_slider_desktop": true,

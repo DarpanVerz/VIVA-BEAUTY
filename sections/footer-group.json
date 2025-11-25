@@ -33,7 +33,7 @@
           "type": "newsletter_signup",
           "settings": {
             "enable_collect_customer_name": false,
-            "signup_link_text": "Sign up",
+            "signup_link_text": "Sign Up",
             "button_style": "secondary",
             "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.</p>"
           }

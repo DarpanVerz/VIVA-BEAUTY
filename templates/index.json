@@ -788,8 +788,8 @@
           "settings": {
             "show_author_image": false,
             "author_image": "shopify://shop_images/t2.jpg",
-            "author": "Jessica S.",
-            "testimonial": "<p>\"As someone who has struggled to find the right skincare match, stumbling upon your brand was a game-changer. The attention to detail in the formulation is evident, and my skin has never felt more balanced and nourished. John Davidson, I can't thank you enough for developing a product that understands and caters to diverse skincare needs.\"</p>",
+            "author": "Sam G.",
+            "testimonial": "<p>\"I’ve always loved perfumes, but Bloom Aura is the first scent that truly feels like it was made for me. The moment I spray it on, I get this soft floral freshness that instantly lifts my spirit. It lasts all day—whether I’m at the office”</p>",
             "show_rating": true,
             "rating": 4,
             "featured_product": "gold-reverence"
@@ -799,7 +799,7 @@
           "type": "testimonial",
           "settings": {
             "show_author_image": false,
-            "author": "Alex B.",
+            "author": "Christy",
             "testimonial": "<p>\"Sunscreen has always been a tricky product for me. I've tried countless options, but they either felt too heavy or didn't provide adequate protection. Emily Rodriguez, your sunscreen is a revelation! It's lightweight, non-greasy, and I appreciate the commitment to cruelty-free ingredients. It's now an essential part of my daily routine, and I'm grateful to have found a product that genuinely works.\"</p><p></p>",
             "show_rating": true,
             "rating": 4,

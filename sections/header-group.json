@@ -196,14 +196,17 @@
       "blocks": {
         "promoted_collections_qqj93W": {
           "type": "promoted_collections",
-          "disabled": true,
           "settings": {
             "submenu_name": "",
             "block_position": "top",
-            "title": "Promoted collections",
+            "title": "Featured",
             "heading_tag": "h3",
-            "collections": [],
-            "layout": "2_col",
+            "collections": [
+              "viva",
+              "unveil",
+              "radiance"
+            ],
+            "layout": "3_col",
             "image_source": "collection",
             "image_aspect_ratio": "square",
             "collection_title_style": "overlay",
@@ -215,45 +218,26 @@
             "image_overlay_override_color_tint": "#000000"
           }
         },
-        "promoted_products_yk3HAH": {
-          "type": "promoted_products",
-          "disabled": true,
-          "settings": {
-            "submenu_name": "",
-            "block_position": "top",
-            "title": "Promoted products",
-            "heading_tag": "h3",
-            "products": [],
-            "image_size": "large",
-            "image_aspect_ratio": "use_theme_settings",
-            "layout": "columns",
-            "show_product_vendor": false,
-            "show_product_subtitles": false,
-            "show_product_prices": true
-          }
-        },
         "promoted_text_VQPyiA": {
           "type": "promoted_text",
-          "disabled": true,
           "settings": {
             "submenu_name": "",
-            "block_position": "top",
-            "title": "Promoted text",
+            "block_position": "bottom",
+            "title": "Customer Service",
             "heading_tag": "h3",
-            "text": "<p>Use this text to share announcements or information with your customers.</p>"
+            "text": "<p>Questions? We're here for you. <br/>Monday - Saturday: 10am - 6pm ET.<br/>Phone: <a href=\"tel:+1 (555) 555-5555\" target=\"_blank\" title=\"tel:+15555555555\">+1 (555) 555-5555</a><br/>Email: <a href=\"mailto:support@email.com\" target=\"_blank\" title=\"mailto:support@email.com\">support@email.com</a><br/></p>"
           }
         }
       },
       "block_order": [
         "promoted_collections_qqj93W",
-        "promoted_products_yk3HAH",
         "promoted_text_VQPyiA"
       ],
       "settings": {
         "logo": "shopify://shop_images/image_1.png",
         "logo_width": 88,
-        "menu_main": "main-menu",
-        "menu_secondary": "",
+        "menu_main": "shop",
+        "menu_secondary": "main-menu",
         "featured_link_label": "Sale",
         "featured_link_color": "#db4827",
         "enable_quick_sign_in": true,

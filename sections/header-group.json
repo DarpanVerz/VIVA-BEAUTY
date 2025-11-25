@@ -61,7 +61,6 @@
         },
         "meganav_image_with_text_Mm9NR9": {
           "type": "meganav_image_with_text",
-          "disabled": true,
           "settings": {
             "title": "products",
             "header_area_heading": "New Arrivals",
@@ -98,7 +97,6 @@
         },
         "meganav_collection_images_GV8tYq": {
           "type": "meganav_collection_images",
-          "disabled": true,
           "settings": {
             "title": "products",
             "header_area_heading": "Mega menu",
@@ -112,6 +110,7 @@
         },
         "meganav_promo_products_tfYh7x": {
           "type": "meganav_promo_products",
+          "disabled": true,
           "settings": {
             "title": "products",
             "header_area_heading": "New Arrivals",
@@ -248,7 +247,8 @@
         "promoted_text_VQPyiA"
       ],
       "settings": {
-        "logo_width": 160,
+        "logo": "shopify://shop_images/image_1.png",
+        "logo_width": 88,
         "menu_main": "main-menu",
         "menu_secondary": "",
         "featured_link_label": "Sale",

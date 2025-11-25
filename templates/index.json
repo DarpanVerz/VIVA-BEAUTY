@@ -710,7 +710,7 @@
         "section_header_heading_tag": "h2",
         "subheading": "",
         "section_header_subheading_tag": "h2",
-        "maximum_content_width": 650,
+        "maximum_content_width": 1000,
         "full_width": false,
         "grid_spacing": 20,
         "color_scheme": "default",

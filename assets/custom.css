@@ -36,7 +36,7 @@
 .footer__credits-additional-text a:hover {
     text-decoration: underline !important;
 }.footer__credits {
-    opacity: 1;
+    opacity: 1 !important;
 }
 
 

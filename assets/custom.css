@@ -54,3 +54,7 @@ button.product-item__quick-add.btn.btn--small.btn--full.btn--tertiary {
     .footer__groups {
       column-gap: 15px !important; 
     }
+    .image-hero__inner .section-blocks__heading {
+    line-height: 1 !important;
+}
+}

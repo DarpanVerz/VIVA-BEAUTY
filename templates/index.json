@@ -499,9 +499,9 @@
         "custom_width": 500,
         "content_alignment": "left",
         "color_scheme": "inverse",
-        "override_with_custom_colors": false,
-        "override_color_text": "#393939",
-        "override_color_background": "#ffffff",
+        "override_with_custom_colors": true,
+        "override_color_text": "#ffffff",
+        "override_color_background": "#000000",
         "section_style_spacing_top": 0,
         "section_style_spacing_bottom": 0,
         "section_style_enable_animation": true

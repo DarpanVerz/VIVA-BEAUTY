@@ -41,6 +41,8 @@ button.product-item__quick-add.btn.btn--small.btn--full.btn--tertiary {
     opacity: 0.65 !important;
 }.collection-item__link:hover {
     color: var(--color-text-link);
+}.back-to-top {
+    z-index: 2 !important;
 }
 @media (max-width: 1399px) {
     .footer__groups {

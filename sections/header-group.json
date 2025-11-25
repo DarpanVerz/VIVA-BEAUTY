@@ -164,6 +164,7 @@
         "meganav_promo_products_tfYh7x",
         "meganav_promo_collections_9V9xeY"
       ],
+      "disabled": true,
       "settings": {
         "layout": "below_logo_left_search_center",
         "layout_mobile": "logo_left_menu_right",

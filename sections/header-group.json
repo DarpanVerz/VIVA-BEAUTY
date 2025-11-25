@@ -62,6 +62,7 @@
         },
         "meganav_image_with_text_Mm9NR9": {
           "type": "meganav_image_with_text",
+          "disabled": true,
           "settings": {
             "title": "products",
             "header_area_heading": "New Arrivals",
@@ -131,7 +132,6 @@
         },
         "meganav_promo_collections_9V9xeY": {
           "type": "meganav_promo_collections",
-          "disabled": true,
           "settings": {
             "title": "products",
             "header_area_heading": "New Arrivals",

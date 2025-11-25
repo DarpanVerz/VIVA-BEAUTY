@@ -47,4 +47,6 @@ p.copy_right {
 
 .footer__credits-additional-text a {
     color: #414042;
+}.template-index .main, .shopify-section {
+    overflow: hidden ! IMPORTANT;
 }

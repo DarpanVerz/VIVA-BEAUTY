@@ -15,7 +15,13 @@
     bottom: 100px !important;
     z-index: 2 !important;
 }
+.meganav__secondary {
+    border-left: 0 !important;
+}
 
+.meganav__content {
+    padding-bottom: 40px !important;
+}
 .newsletter-compact__signup.newsletter-compact__block-item input.newsletter-compact__signup-input::placeholder {
     opacity: 1 !important;
 }

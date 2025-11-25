@@ -2,6 +2,10 @@
 {
     --color-button-tertiary-background:#FEF7E5 !important
 }
+.quick-search__submit {
+    background: var(--color-button-primary-text);
+    color: var(--color-button-primary-background) !important;
+}
 #shop-hcaptcha-badge-container {
     bottom: 100px !important;
     z-index: 2 !important;

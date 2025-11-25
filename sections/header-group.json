@@ -196,6 +196,7 @@
       "blocks": {
         "promoted_collections_qqj93W": {
           "type": "promoted_collections",
+          "disabled": true,
           "settings": {
             "submenu_name": "",
             "block_position": "top",
@@ -216,6 +217,7 @@
         },
         "promoted_products_yk3HAH": {
           "type": "promoted_products",
+          "disabled": true,
           "settings": {
             "submenu_name": "",
             "block_position": "top",
@@ -232,6 +234,7 @@
         },
         "promoted_text_VQPyiA": {
           "type": "promoted_text",
+          "disabled": true,
           "settings": {
             "submenu_name": "",
             "block_position": "top",

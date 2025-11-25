@@ -19,7 +19,7 @@
           "settings": {
             "title": "<p>Free shipping on all orders over $50 </p>",
             "title_mobile": "",
-            "link": "#",
+            "link": "",
             "enable_modal": true,
             "modal_link_text": "Learn more",
             "modal_link_style": "text",

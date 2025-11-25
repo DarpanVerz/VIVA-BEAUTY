@@ -35,4 +35,16 @@
 
 .footer__credits-additional-text a:hover {
     text-decoration: underline !important;
+}.footer__credits {
+    opacity: 1;
+}
+
+
+
+p.copy_right {
+    color: #909090;
+}
+
+.footer__credits-additional-text a {
+    color: #414042;
 }

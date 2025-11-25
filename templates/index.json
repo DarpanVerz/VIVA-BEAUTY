@@ -218,7 +218,7 @@
           "type": "button",
           "settings": {
             "button_link": "",
-            "button_label": "Shop Under $100",
+            "button_label": "Shop Under ₱100",
             "button_style": "tertiary"
           }
         },
@@ -226,7 +226,7 @@
           "type": "button",
           "settings": {
             "button_link": "",
-            "button_label": "Under $75",
+            "button_label": "Under ₱75",
             "button_style": "tertiary"
           }
         },
@@ -234,7 +234,7 @@
           "type": "button",
           "settings": {
             "button_link": "",
-            "button_label": "Under $50",
+            "button_label": "Under ₱50",
             "button_style": "tertiary"
           }
         },
@@ -242,7 +242,7 @@
           "type": "button",
           "settings": {
             "button_link": "",
-            "button_label": "Under $25",
+            "button_label": "Under ₱25",
             "button_style": "tertiary"
           }
         },
@@ -250,7 +250,7 @@
           "type": "button",
           "settings": {
             "button_link": "",
-            "button_label": "Under $10",
+            "button_label": "Under ₱10",
             "button_style": "tertiary"
           }
         },

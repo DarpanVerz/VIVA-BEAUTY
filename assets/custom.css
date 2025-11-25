@@ -25,4 +25,10 @@
     position: relative;
     top: 3px;
     left: 4px;
+}.footer__credits-additional-text a {
+    text-decoration: none;
+}
+
+.footer__credits-additional-text a:hover {
+    text-decoration: underline;
 }

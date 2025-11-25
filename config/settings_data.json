@@ -140,7 +140,7 @@
     "social_vimeo_link": "",
     "social_linkedin_link": "",
     "favicon": "shopify://shop_images/favicon.png",
-    "enable_back_to_top": false,
+    "enable_back_to_top": true,
     "header_search_field_button_type": "transparent",
     "color_popups_drawer_link": "#416eb5",
     "low_inventory_warning_threshold": 31,

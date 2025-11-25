@@ -334,7 +334,7 @@
             <span class="footer__credits-additional-text">
 
               {%- assign current_year = 'now' | date: '%Y' -%}
-{{ section.settings.additional_copyright_text | replace: '%s', current_year }}
+<p class="copy_right">{{ section.settings.additional_copyright_text | replace: '%s', current_year }}</p>
              
             </span>
           </div>

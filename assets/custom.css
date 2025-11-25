@@ -15,13 +15,10 @@ button.product-item__quick-add.btn.btn--small.btn--full.btn--tertiary { backgrou
 button.product-item__quick-add.btn.btn--small.btn--full.btn--tertiary:hover { box-shadow: 0 0 0 1px inset var(--color-border-button-tertiary-hover) !important }
 .badge-shape { padding-bottom: 4px !important; }
 .quick-search__input, .quick-search__faux-input { padding-right: 87px !important; }
-.header {
-    max-width: 100% !important;
-    width: 100% !important;
- 
+
+body>.page {
+    overflow-x: hidden !important;
 }
-
-
 .product-item__price-main s { color: var(--color-products-sale-price) !important; opacity: 1 !important; }
 .product-item__price-main, .product-item__price s:not(:empty)+[data-price] { color: #E41148 !important; }
 .testimonial-item-wrapper .btn.btn--text { text-transform: capitalize; }
